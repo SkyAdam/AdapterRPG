@@ -1,0 +1,15 @@
+C:\Users\Developer\source\repos\AdapterRPG\bin\Debug\net6.0\AdapterRPG.exe
+C:\Users\Developer\source\repos\AdapterRPG\bin\Debug\net6.0\AdapterRPG.deps.json
+C:\Users\Developer\source\repos\AdapterRPG\bin\Debug\net6.0\AdapterRPG.runtimeconfig.json
+C:\Users\Developer\source\repos\AdapterRPG\bin\Debug\net6.0\AdapterRPG.dll
+C:\Users\Developer\source\repos\AdapterRPG\bin\Debug\net6.0\AdapterRPG.pdb
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.AssemblyInfo.cs
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.dll
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\refint\AdapterRPG.dll
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.pdb
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\AdapterRPG.genruntimeconfig.cache
+C:\Users\Developer\source\repos\AdapterRPG\obj\Debug\net6.0\ref\AdapterRPG.dll
